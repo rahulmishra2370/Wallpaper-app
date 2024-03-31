@@ -21,7 +21,6 @@ const styles = StyleSheet.create({
     marginTop:25,
     width:'100%',
     height:'100%',
-    backgroundColor: 'blue',
     alignItems: 'center',
     
   },
